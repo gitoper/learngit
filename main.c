@@ -2,4 +2,5 @@
 git is a version control system
 linux is a system
 systemverilog
-track git changes
+track git changes of files
+
