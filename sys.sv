@@ -7,3 +7,5 @@ create  a new branch is quick & simple
 add a newbranch is quick and simple.
 
 >>>>>>> feature1
+
+ajjdhhd
